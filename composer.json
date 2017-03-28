@@ -1,0 +1,8 @@
+
+{
+    "require": {
+        "aws/aws-sdk-php": "dev-master",
+        "raveren/kint": "^1.0",
+        "katzgrau/klogger": "dev-master"
+    }
+}
